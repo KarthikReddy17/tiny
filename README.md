@@ -3,6 +3,6 @@ first node module
 
 This is my first tiny module that I am going to create. Yayyyy super excited stufff.....
 
-[![npm(scoped)]
+[![npm (scoped)]
 (https://img.shields.io/github/issues/KarthikReddy17/tiny.svg)]
-(https://github.com/KarthikReddy17/tiiny)
+(https://github.com/KarthikReddy17/tiny)
